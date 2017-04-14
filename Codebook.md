@@ -10,11 +10,11 @@ Format
 
 A data frame with 180 obserations on 81 variables
 
-subject
-activity
-tBodyAccMeanX
-tBodyAccMeanY
-tBodyAccMeanZ
+1. subject
+2. activity
+3. tBodyAccMeanX
+4. tBodyAccMeanY
+5. tBodyAccMeanZ
 tBodyAccStdX
 tBodyAccStdY
 tBodyAccStdZ
