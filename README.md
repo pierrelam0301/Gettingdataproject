@@ -2,7 +2,7 @@
 
 Getting and Cleaning Data Project
 
-Project submission file
+Project submission files
 
  1. run_analysis.R
  2. README.md
